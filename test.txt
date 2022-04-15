@@ -1,1 +1,3 @@
 bu test amacli bir txt dosyasidir
+
+denemelr
